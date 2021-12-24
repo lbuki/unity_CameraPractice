@@ -1,0 +1,6 @@
+#ignoreという名前のファイルを無視するでござる
+ignore.txt
+Library/
+Temp/
+ProjectSettings/
+UserSettings/
