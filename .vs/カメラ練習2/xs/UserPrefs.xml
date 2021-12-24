@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7F40AAD2-3B0A-48D8-178F-ED9710CE35BC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/charaController2.cs">
+    <Files>
+      <File FileName="Assets/charaController2.cs" Line="10" Column="26" />
+      <File FileName="Assets/cameraController.cs" />
+      <File FileName="Assets/UnityChan/ReadMe/ReadMe_hw_jp.txt" />
+      <File FileName="Assets/UnityChan/Scripts/IdleChanger.cs" />
+      <File FileName="Assets/UnityChan/Scripts/AutoBlink.cs" />
+      <File FileName="Assets/charaController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="カメラ練習2" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d0561bee-91b3-463c-8a9d-45b68e20b1a4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
